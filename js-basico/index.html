@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <br/>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-4">
+                <input class="form-control" type="text" id="number_val" placeholder="Enter your number here">
+            </div>
+
+            <div class="col-1">
+                <button type="button" class="btn btn-primary" onclick="validateNumber()">Ok</button>
+            </div>
+
+            <div class="col">
+                <button type="button" class="btn btn-primary" id="click_me">Click Me</button>
+            </div>
+        </div>
+
+        <br/>
+
+        <div class="row">
+
+            <div class="col-4">
+                <div id="bg" style="width: 200px; height: 200px; background: #000000" onmouseover="over(this)" onmouseout="out(this)">
+                    <h2 style="color: #ffffff; text-align: center; padding-top: 2em;">OVER ME</h2>
+                </div>
+            </div>
+
+        </div>
+
+        <br>
+
+        <div class="row">
+            <div class="col-4">
+                <input class="form-control number_val_input" type="number" id="val">
+            </div>
+
+            <div class="col-1">
+                <button class="btn btn-primary" type="button" id="generate_btn">Click Me</button>
+            </div>
+        </div>
+
+    </div>
+
+    <hr>
+
+    <h1 id="h1">Scholl of net</h1>
+
+    <!-- <script type="text/javascript"> console.log('Hello World from scripts');
+    </script> -->
+
+    <!-- <script type="text/javascript" async src="js/main.js"></script> -->
+    <script type="text/javascript" async src="js/dom.js"></script>
+
+</body>
+
+</html>
