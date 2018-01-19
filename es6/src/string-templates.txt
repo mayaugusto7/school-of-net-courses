@@ -1,0 +1,9 @@
+let name = "Maycon";
+let age = 28;
+
+let text = "name: " + name + " age: " + age;
+
+console.log(text);
+
+let textStrTemplate = `name: ${name} age: ${age}`;
+console.log(textStrTemplate);

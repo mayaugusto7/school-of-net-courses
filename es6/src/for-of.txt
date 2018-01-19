@@ -1,0 +1,19 @@
+/**
+ * For 'of' no lugar do 'in'
+ * o 'of' pega o elemento e nao a posicao do array
+ */
+
+var list = [
+    "test",
+    34,
+    { name: 'Maycon' }
+];
+
+//for (var i in list) {
+// console.log(i);
+// console.log(list[i]);
+//}
+
+for (let i of list) {
+    console.log(i);
+}
