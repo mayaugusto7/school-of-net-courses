@@ -1,0 +1,31 @@
+#corners1 {
+    border-radius: 10px 50px 25px 50px;
+    background-color: #0288D1;
+    padding: 20px;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    display: inline-block;
+}
+
+#corners2 {
+    border-radius: 25px 10px 5px 30px;
+    border: 2px solid #03A9F4;
+    padding: 20px;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    display: inline-block;
+}
+
+#corners3 {
+    border-radius: 25px 50px 25px 50px;
+    background: url(../img/image_1.jpg);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    display: inline-block;
+}
