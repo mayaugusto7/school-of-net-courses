@@ -1,0 +1,32 @@
+  /** Usado em navegadores mais antigos**/
+  
+  header,
+  section,
+  footer,
+  nav,
+  main,
+  article,
+  figure {
+      display: block;
+  }
+  
+  myTag {
+      display: block;
+      background-color: #ddd;
+      padding: 50px;
+      font-size: 30px;
+  }
+  
+  hGroup {
+      display: block;
+      width: 100%;
+  }
+  
+  vGroup {
+      display: inline;
+  }
+  
+  main section,
+  main aside {
+      display: inline-block;
+  }
