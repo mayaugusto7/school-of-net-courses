@@ -55,15 +55,49 @@
   <main>
       <section>
           <div class="container">
-              <div class="row text-center">
-                  <h1>Glyph icons</h1>
-                  <p><span class="glyphicon glyphicon-search" aria-hidden="true" style="font-size: 40px;"></span></p>
+              <div class="row">
+                <h1>Dropdown</h1>
 
-                  <p><span class="glyphicon glyphicon-education" style="font-size: 40px;" aria-hidden="true"></span></p>
-                  <p><span class="glyphicon glyphicon-user" style="font-size: 40px; color: blue;" aria-hidden="true"></span></p>
-                  <p><span class="glyphicon glyphicon-user text-danger" style="font-size: 40px;" aria-hidden="true"></span></p>
-                  <p><button type="submit" class=" btn btn-info glyphicon glyphicon-info-sign" style="font-size: 40px;" aria-hidden="true"></button></p>
-                  <p><button type="submit" class=" btn btn-success glyphicon glyphicon-ok " style="font-size: 40px;" aria-hidden="true"></button></p>
+                  <div class="dropdown">
+                      <button class="btn btn-warning dropdown-toggle"
+                              type="button"
+                              id="dropdownMenu1"
+                              data-toggle="dropdown"
+                              aria-haspopup="true"
+                              aria-expanded="true">
+                          Dropdown
+                          <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                          <li class="dropdown-header">Title 1</li>
+                          <li><a href="#">Action</a></li>
+                          <li><a href="#">Another action</a></li>
+                          <li><a href="#">Something else here</a></li>
+                          <li role="separator" class="divider"></li>
+                          <li class="dropdown-header">Title 2</li>
+                          <li><a href="#">Separated link</a></li>
+                      </ul>
+                  </div>
+              </div>
+
+              <div class="row">
+                <h1>Dropup</h1>
+
+                  <div class="dropup">
+                      <button class="btn btn-danger dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          Dropup
+                          <span class="glyphicon glyphicon-usd"></span>
+                      </button>
+                      <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+                          <li class="dropdown-header">Title 1</li>
+                          <li><a href="#">Action</a></li>
+                          <li><a href="#">Another action</a></li>
+                          <li><a href="#">Something else here</a></li>
+                          <li role="separator" class="divider"></li>
+                          <li class="dropdown-header">Title 2</li>
+                          <li><a href="#">Separated link</a></li>
+                      </ul>
+                  </div>
               </div>
           </div>
       </section>

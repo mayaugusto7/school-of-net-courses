@@ -15,13 +15,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aula07-icons/index.html">
+        <entry file="file://$PROJECT_DIR$/aula14-alerts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="60" column="85" lean-forward="false" selection-start-line="60" selection-start-column="85" selection-end-line="60" selection-end-column="85" />
-              <folding>
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="662">
+              <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -35,6 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\n\&lt;head\&gt;\n  \&lt;\!\-\- Required meta tags \-\-\&gt;\n  \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n  \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n\n   \&lt;link href\=\&quot;css\/bootstrap\.min\.css\&quot; type\=\&quot;text\/css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;css\/style\.css\&quot;\&gt;\n\&lt;\/head\&gt;\n\n\&lt;body\&gt;\n\n  \&lt;header\&gt;\n    \&lt;nav class\=\&quot;navbar navbar\-inverse navbar\-fixed\-top\&quot;\&gt;\n      \&lt;div class\=\&quot;container\&quot;\&gt;\n          \&lt;div class\=\&quot;navbar\-header\&quot;\&gt;\n            \&lt;button type\=\&quot;button\&quot; class\=\&quot;navbar\-toggle collapsed\&quot; data\-toogle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarCollapse\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n              \&lt;span class\=\&quot;sr\-only\&quot;\&gt;Toogle navigation\&lt;\/span\&gt;\n              \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n              \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n              \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n              \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n              \&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n            \&lt;\/button\&gt;\n              \&lt;a href\=\&quot;\#\&quot; class\=\&quot;navbar\-brand\&quot;\&gt;Bootstrap Learning\&lt;\/a\&gt;\n          \&lt;\/div\&gt;\n          \&lt;div id\=\&quot;navbarCollapse\&quot; class\=\&quot;navbar\-collapse\&quot;\&gt;\n              \&lt;ul class\=\&quot;nav navbar\-nav navbar\-right\&quot;\&gt;\n                  \&lt;li class\=\&quot;active\&quot;\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Home\&lt;\/a\&gt;\&lt;\/li\&gt;\n                  \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;About\&lt;\/a\&gt;\&lt;\/li\&gt;\n                  \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Contact\&lt;\/a\&gt;\&lt;\/li\&gt;\n                  \&lt;li class\=\&quot;dropdown\&quot;\&gt;\n                      \&lt;a href\=\&quot;\#\&quot; class\=\&quot;dropdown\-toggle\&quot; data\-toggle\=\&quot;dropdown\&quot; role\=\&quot;button\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;Dropdown \&lt;span class\=\&quot;caret\&quot;\&gt;\&lt;\/span\&gt;\&lt;\/a\&gt;\n                      \&lt;ul class\=\&quot;dropdown\-menu\&quot;\&gt;\n                          \&lt;li class\=\&quot;dropdown\-header\&quot;\&gt;Title 1\&lt;\/li\&gt;\n                          \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Action\&lt;\/a\&gt;\&lt;\/li\&gt;\n                          \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Another action\&lt;\/a\&gt;\&lt;\/li\&gt;\n                          \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Something else here\&lt;\/a\&gt;\&lt;\/li\&gt;\n                          \&lt;li role\=\&quot;separator\&quot; class\=\&quot;divider\&quot;\&gt;\&lt;\/li\&gt;\n                          \&lt;li class\=\&quot;dropdown\-header\&quot;\&gt;Title 2\&lt;\/li\&gt;\n                          \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;Separated link\&lt;\/a\&gt;\&lt;\/li\&gt;\n                          \&lt;li role\=\&quot;separator\&quot; class\=\&quot;divider\&quot;\&gt;\&lt;\/li\&gt;\n                          \&lt;li class\=\&quot;dropdown\-header\&quot;\&gt;Title 3\&lt;\/li\&gt;\n                          \&lt;li\&gt;\&lt;a href\=\&quot;\#\&quot;\&gt;One more separated link\&lt;\/a\&gt;\&lt;\/li\&gt;\n                      \&lt;\/ul\&gt;\n                  \&lt;\/li\&gt;\n              \&lt;\/ul\&gt;\n          \&lt;\/div\&gt;\n      \&lt;\/div\&gt;\n    \&lt;\/nav\&gt;\n  \&lt;\/header\&gt;\n\n  \&lt;main\&gt;\n      \&lt;section\&gt;\n          \&lt;div class\=\&quot;container\&quot;\&gt;\n              \&lt;div class\=\&quot;row\&quot;\&gt;\n                \&lt;h1\&gt;Thumbnail\&lt;\/h1\&gt;\n                    \&lt;div class\=\&quot;col\-xs\-6 col\-md\-3\&quot;\&gt;\n                        \&lt;a href\=\&quot;\#\&quot; class\=\&quot;thumbnail\&quot;\&gt;\n                            \&lt;img src\=\&quot;img\/image\.png\&quot; alt\=\&quot;image\&quot;\&gt;\n                        \&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n\n\n                  \&lt;div class\=\&quot;col\-xs\-6 col\-md\-3\&quot;\&gt;\n                      \&lt;a href\=\&quot;\#\&quot; class\=\&quot;thumbnail\&quot;\&gt;\n                          \&lt;img src\=\&quot;img\/image\.png\&quot; alt\=\&quot;image\&quot;\&gt;\n                      \&lt;\/a\&gt;\n                  \&lt;\/div\&gt;\n\n\n                  \&lt;div class\=\&quot;col\-xs\-6 col\-md\-3\&quot;\&gt;\n                      \&lt;a href\=\&quot;\#\&quot; class\=\&quot;thumbnail\&quot;\&gt;\n                          \&lt;img src\=\&quot;img\/image\.png\&quot; alt\=\&quot;image\&quot;\&gt;\n                      \&lt;\/a\&gt;\n                  \&lt;\/div\&gt;\n\n\n                  \&lt;div class\=\&quot;col\-xs\-6 col\-md\-3\&quot;\&gt;\n                      \&lt;a href\=\&quot;\#\&quot; class\=\&quot;thumbnail\&quot;\&gt;\n                          \&lt;img src\=\&quot;img\/image\.png\&quot; alt\=\&quot;image\&quot;\&gt;\n                      \&lt;\/a\&gt;\n                  \&lt;\/div\&gt;\n              \&lt;\/div\&gt;\n          \&lt;\/div\&gt;\n      \&lt;\/section\&gt;\n  \&lt;\/main\&gt;\n\n  \&lt;footer\&gt;\n      \&lt;br\&gt;\n      \&lt;br\&gt;\n      \&lt;br\&gt;\n      \&lt;br\&gt;\n  \&lt;\/footer\&gt;\n\n  \&lt;script src\=\&quot;https\:\/\/code\.jquery\.com\/jquery\-3\.2\.1\.slim\.min\.js\&quot; integrity\=\&quot;sha384\-KJ3o2DKtIkvYIK3UENzmM7KCkRr\/rE9\/Qpg6aAZGJwFDMVNA\/GpGFF93hXpG5KkN\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n  \&lt;script src\=\&quot;js\/bootstrap\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\n\&lt;\/body\&gt;\n\n\&lt;\/html\&gt;</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -47,6 +50,16 @@
         <option value="$PROJECT_DIR$/aula06-images/css/style.css" />
         <option value="$PROJECT_DIR$/aula06-images/index.html" />
         <option value="$PROJECT_DIR$/aula07-icons/index.html" />
+        <option value="$PROJECT_DIR$/aula08-dropdown/css/style.css" />
+        <option value="$PROJECT_DIR$/aula08-dropdown/index.html" />
+        <option value="$PROJECT_DIR$/aula09-pagination/css/style.css" />
+        <option value="$PROJECT_DIR$/aula09-pagination/index.html" />
+        <option value="$PROJECT_DIR$/aula10-thumbnail-miniaturas/index.html" />
+        <option value="$PROJECT_DIR$/aula10-thumbnail-miniaturas/css/style.css" />
+        <option value="$PROJECT_DIR$/aula11-panel/index.html" />
+        <option value="$PROJECT_DIR$/aula12-lists/index.html" />
+        <option value="$PROJECT_DIR$/aula13-media/index.html" />
+        <option value="$PROJECT_DIR$/aula14-alerts/index.html" />
       </list>
     </option>
   </component>
@@ -76,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,14 +100,13 @@
             <path>
               <item name="bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="aula07-icons" type="462c0819:PsiDirectoryNode" />
+              <item name="aula14-alerts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,14 +117,14 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mayco\Desktop\SCHOOL OF NET\school-of-net-courses\bootstrap\aula01-navbar" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mayco\Desktop\SCHOOL OF NET\school-of-net-courses\bootstrap" />
       <recent name="C:\Users\mayco\Desktop\SCHOOL OF NET\school-of-net-courses\bootstrap\aula05-buttons" />
       <recent name="C:\Users\mayco\Desktop\SCHOOL OF NET\school-of-net-courses\bootstrap\aula02-navbar" />
       <recent name="C:\Users\mayco\Desktop\SCHOOL OF NET\school-of-net-courses\bootstrap\aula01-introducao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mayco\Desktop\SCHOOL OF NET\school-of-net-courses\bootstrap\aula01-navbar" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -144,12 +157,14 @@
       <option name="presentableId" value="Default" />
       <updated>1517054362400</updated>
       <workItem from="1517054364769" duration="1396000" />
-      <workItem from="1517058912968" duration="6927000" />
+      <workItem from="1517058912968" duration="9736000" />
+      <workItem from="1517166074555" duration="353000" />
+      <workItem from="1517166500215" duration="2287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8323000" />
+    <option name="totallyTimeSpent" value="13772000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -162,7 +177,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.324295" sideWeight="0.49815693" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32414553" sideWeight="0.49815693" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -190,22 +205,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aula02-navbar/index.html">
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2620">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aula01-introducao/js/bootstrap.js" />
-    <entry file="file://$PROJECT_DIR$/aula01-introducao/index.html">
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2620">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula02-navbar/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aula01-introducao/js/bootstrap.js" />
     <entry file="file://$PROJECT_DIR$/aula02-navbar/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -220,30 +259,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aula02-navbar/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aula03-grid/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -251,7 +270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -259,7 +277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -267,7 +284,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
           <caret line="91" column="65" lean-forward="false" selection-start-line="91" selection-start-column="65" selection-end-line="91" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -275,7 +291,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="4" column="38077" lean-forward="false" selection-start-line="4" selection-start-column="38077" selection-end-line="4" selection-end-column="38077" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -283,7 +298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -291,7 +305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -299,7 +312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -307,7 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="75" column="20" lean-forward="true" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -315,7 +326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -323,7 +333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -331,7 +340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -339,17 +347,170 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="65" column="77" lean-forward="false" selection-start-line="65" selection-start-column="77" selection-end-line="65" selection-end-column="77" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula08-dropdown/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aula07-icons/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="60" column="85" lean-forward="false" selection-start-line="60" selection-start-column="85" selection-end-line="60" selection-end-column="85" />
+        <state relative-caret-position="231">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula01-introducao/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula02-navbar/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="35" column="66" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula08-dropdown/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula08-dropdown/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula09-pagination/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula09-pagination/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula09-pagination/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="58" column="35" lean-forward="false" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/img/image.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2620">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula10-thumbnail-miniaturas/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula11-panel/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="76" column="47" lean-forward="false" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula12-lists/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula12-lists/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula13-media/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula13-media/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="128" column="16" lean-forward="false" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
           <folding>
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula14-alerts/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aula14-alerts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
